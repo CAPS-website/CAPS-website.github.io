@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% if page.extra.promenna %} {{ page.extra.promenna }} {%endif %}
+{{section.content|safe}}
+{% endblock content %}

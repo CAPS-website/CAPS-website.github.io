@@ -1,0 +1,3 @@
+    <!--{% set organizers = load_data(path="organizers.toml") %}-->
+    {% set organizers = page.organizers %}
+

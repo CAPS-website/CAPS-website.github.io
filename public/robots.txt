@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://pub.ist.ac.at/~nngo/caps/sitemap.xml
