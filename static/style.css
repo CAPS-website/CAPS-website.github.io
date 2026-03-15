@@ -18,7 +18,8 @@ body {
   display: flex;
 }
 
-#menu-list li {
+
+#menu-list > li {
     margin-right: 1em;
 }
 
@@ -65,7 +66,7 @@ body {
 }
 
 .dropdown-toggle::after {
-  content: " ▼";
+  content: " â–¼";
   font-size: 0.6em;
   margin-left: 0.3em;
   color: white; /* Match your nav text */
@@ -84,14 +85,15 @@ img {
 }
 
 .site-content {
-  max-width: 800px;
+  max-width: 90%;
   margin: 2rem auto;   /* centers content horizontally */
   padding: 2rem;        /* adds inner spacing */
-  background: #ffe0e0;  /* optional: background to visually separate it */
+  background: #ffe9e4;  /* optional: background to visually separate it */
   #background: #ffe9e0;  /* optional: background to visually separate it */
   #background: #f9f9f9;  /* optional: background to visually separate it */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);  /* subtle depth */
   border-radius: 8px;
+  box-sizing: border-box;
 }
 
 .table {
@@ -163,3 +165,27 @@ th, td {
   text-decoration: underline;
 }
 
+@media screen and (max-width: 769px) {
+    #menu-bar {
+	gap: 1em;
+	flex-direction: column-reverse;
+	align-items: center;
+    }
+    
+    #menu-list {
+	flex-direction: column;
+	align-items: center;
+	width:100%;
+    }
+
+    #menu-list > li {
+	margin-right: 0;
+    }
+    table {
+	font-size: 0.9em;
+    }
+    th, td {
+	padding: 0.4em 0.6em;
+	border: 1px solid #ccc;
+    }
+}
