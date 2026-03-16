@@ -21,8 +21,8 @@ took place nevertheless in a virtual mode.
 
 Since 2022 *Tamas Hausel* is the responsible faculty member, and the actual local organizers
 have been *Kamil Rychlewicz* (Poland), *Jakub Löwit* (Czechia), *Daniel Holmes* (Austria),
-*Shon Ngo* (Ukraine) – all PhD students in Hausel group. Since 2022 the competition has
-also included a team from Ukraine.
+*Shon Ngo* (Ukraine) and *Lenka Kopfová* (Czechia) – all PhD students at ISTA. 
+Since 2022 the competition has also included a team from Ukraine.
 
 ## Format of the competition
 The competition itself consists of two separate competition sessions; on each day the

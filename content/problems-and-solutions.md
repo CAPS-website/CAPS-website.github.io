@@ -13,7 +13,8 @@ Problem statements from all the editions can be found on [AoPS](https://artofpro
 | 2024  | [english](/pdfs/CAPS_2024/2024_problems.pdf)    | [english](/pdfs/CAPS_2024/2024_solutions.pdf) | [pdf](/pdfs/CAPS_2024/2024_standings.pdf) | 
 | 2023  | [english](/pdfs/CAPS_2023/2023_problems.pdf)    | [english](/pdfs/CAPS_2023/2023_solutions.pdf) | [pdf](/pdfs/CAPS_2023/2023_standings.pdf) | 
 | 2022  | [english](/pdfs/CAPS_2022/2022_problems.pdf)    | [english](/pdfs/CAPS_2022/2022_solutions.pdf) | [pdf](/pdfs/CAPS_2022/2022_standings.pdf) | 
-| 2021  | -                                               | [english](/pdfs/CAPS_2021/2021_solutions.pdf) | -                                         | 
-| 2020  | -                                               | -                                             | -                                         | 
-| 2019  | -                                               | -                                             | -                                         | 
-| 2018  | -                                               | [english](/pdfs/CAPS_2018/2018_solutions.pdf) | -                                         | 
+| 2021  | [english](/pdfs/CAPS_2021/2021_problems.pdf)    | [english](/pdfs/CAPS_2021/2021_solutions.pdf) | [pdf](/pdfs/CAPS_2021/2021_standings.pdf) | 
+| 2020  | [english](/pdfs/CAPS_2020/2020_problems.pdf)    | [english](/pdfs/CAPS_2020/2020_solutions.pdf) | [pdf](/pdfs/CAPS_2020/2020_standings.pdf) | 
+| 2019  | [english](/pdfs/CAPS_2019/2019_problems.pdf)    | [english](/pdfs/CAPS_2019/2019_solutions.pdf) | [pdf](/pdfs/CAPS_2019/2019_standings.pdf) | 
+| 2018  | [english](/pdfs/CAPS_2018/2018_problems.pdf)    | [english](/pdfs/CAPS_2018/2018_solutions.pdf) | -                                         | 
+ 
