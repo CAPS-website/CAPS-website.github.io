@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://CAPS-website.github.io"
+base_url = "https://caps.ista.ac.at"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
