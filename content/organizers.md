@@ -2,13 +2,23 @@
 template="organizers.html"
 title="Organizers"
 [extra]
-organizers = [
+mainOrganizers = [
     { name = "Jakub Löwit", photo = "alice.JPG", email = "jakub.loewit@ista.ac.at", phone = "+123456789" },
     { name = "Nhok Tkhai Shon Ngo", photo = "shon_01.JPG", email = "nhoktkhaishon.ngo@ista.ac.at", phone = "+987654321" },
     { name = "Lenka Kopfová", photo = "lenka.JPG", email = "lenka.kopfova@ista.ac.at", phone = "+987654321" }
 ]
 +++
 
-Here are the people responsible for this chaos!
+Here are the people responsible for this chaos!  
+#### Other people involved:
 
-Edit: here **will** be the people responsible for this chaos.
+Peter Súkeník  
+Daniel Holmes  
+Kamil Rychlewicz  
+Josef Tkadlec
+
+## Involved math olympiads
+
+<img src="/images/slovak-logo.png" alt="slovak MO logo" width="200"/>
+
+## Sponzors

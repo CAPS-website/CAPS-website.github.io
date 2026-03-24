@@ -3,7 +3,7 @@ template="index.html"
 +++
 # About CAPS
 
-CAPS is a shortcut for *Czech-Austrian-Polish-Slovak Match*. It is a mathematical competition in the format of the prestigious International
+CAPS is a shortcut for *Czech-Austrian-Polish-Slovak Match*. It is a mathematical competition in the format of the International
 Mathematical Olympiad (IMO) and serves as a preparation for the IMO teams of the
 respective countries, with Ukraine as a guest country. Each of these teams contains the 6
 most successful students in the national mathematical olympiads.
@@ -14,7 +14,7 @@ happened in 1995 with Czechia and Slovakia only; with Poland joining from 2001 o
 serves as the final preparation for the students before IMO.
 
 Hosting CAPS at ISTA already has a long tradition. In the years 2016-2019 it was organized
-at ISTA by *Georg Heilig* of Scientific Events, and by local organizer *Josef Tkadlec* (a
+at ISTA by local organizer *Josef Tkadlec* (a
 previous participant and PhD student in Chatterjee group). The Austrian team started to join
 in 2017. There was no competition at ISTA in 2020 and 2021 due to pandemy, but the event
 took place nevertheless in a virtual mode.
