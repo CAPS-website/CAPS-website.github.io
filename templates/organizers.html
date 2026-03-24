@@ -1,11 +1,10 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1>{{ page.title }}</h1>
-{{page.content|safe}}
+<h2>Main organizers</h2>
 
 <div class="organizers">
-    {%- for organizer in page.extra.organizers %}
+    {%- for organizer in page.extra.mainOrganizers %}
         <div class="organizer-card">
             <img src="/images/{{ organizer.photo }}" alt="{{ organizer.name }}" width="150" />
             <h2>{{ organizer.name }}</h2>
@@ -14,4 +13,5 @@
     {%- endfor %}
 </div>
 
+{{page.content|safe}}
 {% endblock content %}
