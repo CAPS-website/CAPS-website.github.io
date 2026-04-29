@@ -3,36 +3,19 @@ template="index.html"
 +++
 # About CAPS
 
-CAPS is a shortcut for *Czech-Austrian-Polish-Slovak Match*. It is a mathematical competition in the format of the International
-Mathematical Olympiad (IMO) and serves as a preparation for the IMO teams of the
-respective countries, with Ukraine as a guest country. Each of these teams contains the 6
-most successful students in the national mathematical olympiads.
+CAPS is a shortcut for *Czech-Austrian-Polish-Slovak Match*. It is a mathematical competition in the format of the 
+International Mathematical Olympiad (IMO) and serves as a preparation for the IMO teams of the
+respective countries, with Ukraine as a guest country. Each of these teams contains the most successful students in the national mathematical olympiads.
 
 ## History
-CPS (*Czech Polish Slovak Match*) has a history going back decades. The first edition
-happened in 1995 with Czechia and Slovakia only; with Poland joining from 2001 on. It
-serves as the final preparation for the students before IMO.
+The annual competition CPS (*Czech Polish Slovak Match*) has a history going back decades. The first edition took place in 1995 with Czechia and Slovakia only; Poland joined from 2001 on. It serves as the final preparation for the students before the IMO.
 
-Hosting CAPS at ISTA already has a long tradition. In the years 2016-2019 it was organized
-at ISTA by local organizer *Josef Tkadlec* (a
-previous participant and PhD student in Chatterjee group). The Austrian team started to join
-in 2017. There was no competition at ISTA in 2020 and 2021 due to pandemy, but the event
-took place nevertheless in a virtual mode.
+Starting from 2016, the competition is regularly hosted at ISTA. Austria started to join in 2017 and consequently became one of the organizing countries. In these years, the responsible local organizers were *Josef Tkadlec* and *Michal Rolínek*. There was no competition at ISTA in 2020 and 2021 due to the pandemic, but the event took place nevertheless in a virtual mode. 
 
-Since 2022 *Tamas Hausel* is the responsible faculty member, and the actual local organizers
-have been *Kamil Rychlewicz* (Poland), *Jakub Löwit* (Czechia), *Daniel Holmes* (Austria),
-*Shon Ngo* (Ukraine) and *Lenka Kopfová* (Czechia) – all PhD students at ISTA. 
-Since 2022 the competition has also included a team from Ukraine.
+Since 2022, CAPS continues to take place annually at ISTA, including a team from Ukraine as a guest country. The responsible faculty member is *Tamás Hausel*; the actual local organizers have been *Kamil Rychlewicz* (Poland), *Jakub Löwit* (Czechia), *Shon Ngo* (Ukraine), *Lenka Kopfová* (Czechia), *Daniel Holmes* (Austria) and *Peter Súkeník* (Slovakia) – all PhD students at ISTA. 
+
 
 ## Format of the competition
-The competition itself consists of two separate competition sessions; on each day the
-students have 4.5 hours to solve 3 challenging problems.
-From 2024 the format requires 2 additional female competitors from each team. This way
-there are 8 students and 2 team leaders (often former competitors) from each country.
-Minimum 25% female participation is guaranteed.
+The competition itself follows the format of the IMO. It consists of two separate sessions; on each day the students have 4.5 hours to solve 3 challenging problems. The format of CAPS further requires 2 additional female competitors from each country.
 
-The organization of the competition is done by the local organizers and the team leaders:
-this amounts to preparing the problems, taking care of the students, overseeing the
-competition and organizing the marking process. The marking process for each problem is
-coordinated by a jury consisting of additional volunteers from ISTA (usually PhD students
-and postdocs). During the award presentation, there is an additional talk by an ISTA faculty.
+The organization of the competition is done by the local organizers and team leaders with support from the national olympiads: this amounts to preparing the problems, overseeing the competition and organizing the marking process. The marking is coordinated by a jury consisting of additional volunteers from ISTA, usualy PhD students and postdocs. During the award presentation, there is an invited research talk by an ISTA faculty member.
