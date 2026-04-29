@@ -9,7 +9,7 @@ Each of these teams contains the most successful students in the national mathem
 ## History
 The annual competition CPS (*Czech Polish Slovak Match*) has a history going back decades. The first edition took place in 1995 with Czechia and Slovakia only; Poland joined from 2001 on. It serves as the final preparation for the students before the IMO.
 
-Starting from 2016, the competition is regularly hosted at ISTA. Austria started to join in 2017 and consequently became one of the organizing countries. In these years, the responsible local organizers were *Josef Tkadlec* and *Michal Rolínek*. There was no competition at ISTA in 2020 and 2021 due to the pandemic, but the event took place nevertheless in a virtual mode. 
+Starting from 2016, the competition is regularly hosted at ISTA. Austria started to participate in 2017 and consequently joined the organizing countries. In these years, the responsible local organizers were *Josef Tkadlec* and *Michal Rolínek*. There was no competition at ISTA in 2020 and 2021 due to the pandemic, but the event took place nevertheless in a virtual mode. 
 
 Since 2022, CAPS continues to take place annually at ISTA, including a team from Ukraine as a guest country. The responsible faculty member is *Tamás Hausel*; the actual local organizers have been *Kamil Rychlewicz* (Poland), *Jakub Löwit* (Czechia), *Shon Ngo* (Ukraine), *Lenka Kopfová* (Czechia), *Daniel Holmes* (Austria) and *Peter Súkeník* (Slovakia) – all PhD students at ISTA. 
 
