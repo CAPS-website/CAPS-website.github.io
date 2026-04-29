@@ -3,9 +3,7 @@ template="index.html"
 +++
 # About CAPS
 
-CAPS is a shortcut for *Czech-Austrian-Polish-Slovak Match*. It is a mathematical competition in the format of the 
-International Mathematical Olympiad (IMO) and serves as a preparation for the IMO teams of the
-respective countries, with Ukraine as a guest country. Each of these teams contains the most successful students in the national mathematical olympiads.
+CAPS is a shortcut for *Czech-Austrian-Polish-Slovak Match*. It is a mathematical competition in the format of the International Mathematical Olympiad (IMO) and serves as a preparation for the IMO teams of the respective countries, with Ukraine as a guest country. Each of these teams contains the most successful students in the national mathematical olympiads.
 
 ## History
 The annual competition CPS (*Czech Polish Slovak Match*) has a history going back decades. The first edition took place in 1995 with Czechia and Slovakia only; Poland joined from 2001 on. It serves as the final preparation for the students before the IMO.
