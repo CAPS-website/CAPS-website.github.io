@@ -26,7 +26,7 @@ Austria
 In hostel in [Tulln](https://noejhw.at/en/standorte/tulln/)
 
 #### Address
-[Lower Austria Youth Hostel Association](https://maps.app.goo.gl/4fdoo2aaR6Xid2Z66)
+Lower Austria Youth Hostel Association, [Marc Aurel Park 1, 3430 Tulln](https://maps.app.goo.gl/4fdoo2aaR6Xid2Z66).
 
-Marc Aurel Park 1, 3430 Tulln
+
 
