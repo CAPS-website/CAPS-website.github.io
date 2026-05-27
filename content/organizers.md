@@ -19,19 +19,25 @@ Josef Tkadlec
 
 ## Involved math olympiads
 
-<img src="/images/slovak-logo.png" alt="slovak MO logo" width="200"/>
+<img src="/images/cz-mo.pdf" alt="czechia MO logo" width="200"/>
 
-<img src="/images/austria-logo.png" alt="austria MO logo" width="200"/>
+<img src="/images/austria-logo.png" alt="austria MO logo" height="200"/>
 
 <img src="/images/polish-logo.pdf" alt="poland MO logo" width="200"/>
 
-<img src="/images/cz-mo.pdf" alt="czechia MO logo" width="200"/>
+<img src="/images/slovak-logo.png" alt="slovak MO logo" width="200"/>
 
 <img src="/images/ukrainian-logo.svg" alt="ukraine MO logo" width="200"/>
 
 
 ## Sponsors
 
-<img src="/images/ISTA_green3.png" alt="ISTA logo" width="200"/>
+We acknowledge the support of the Institute of Science and Technology Austria (ISTA) and the VISTA Science Experience Center.
 
+<a href="https://ista.ac.at/en/home/">
+<img src="/images/ISTA_green3.png" alt="ISTA logo" width="200"/>
+</a>
+
+<a href="https://www.vistascience.at/en">
 <img src="/images/vista_logo.png" alt="VISTA logo" width="200"/>
+</a>
