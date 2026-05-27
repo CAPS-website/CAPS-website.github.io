@@ -3,7 +3,7 @@ template="organizers.html"
 title="Organizers"
 [extra]
 mainOrganizers = [
-    { name = "Jakub Löwit", photo = "alice.JPG", email = "jakub.loewit@ista.ac.at", phone = "+123456789" },
+    { name = "Jakub Löwit", photo = "redlinger_cat.JPG", email = "jakub.loewit@ista.ac.at", phone = "+123456789" },
     { name = "Nhok Tkhai Shon Ngo", photo = "shon_01.JPG", email = "nhoktkhaishon.ngo@ista.ac.at", phone = "+987654321" },
     { name = "Lenka Kopfová", photo = "lenka.JPG", email = "lenka.kopfova@ista.ac.at", phone = "+987654321" }
 ]
@@ -17,10 +17,10 @@ Daniel Holmes
 Kamil Rychlewicz  
 Josef Tkadlec
 
-## Involved math olympiads
+## Involved math olympiad organisations
 
 <a href="https://www.matematickaolympiada.cz/en">
-<img src="/images/cz-mo.pdf" alt="czechia MO logo" height="100"/>
+<img src="/images/cz-mo.svg" alt="czechia MO logo" height="100"/>
 </a>
 
 <a href="https://www.math.aau.at/OeMO/">
@@ -28,7 +28,7 @@ Josef Tkadlec
 </a>
 
 <a href="https://om.sem.edu.pl/english_templates/about/">
-<img src="/images/polish-logo.pdf" alt="poland MO logo" height="100"/>
+<img src="/images/polish-logo.svg" alt="poland MO logo" height="100"/>
 </a>
 
 <a href="https://skmo.sk/">
