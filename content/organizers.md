@@ -43,10 +43,10 @@ Josef Tkadlec
 
 We acknowledge the support of the Institute of Science and Technology Austria (ISTA) and the VISTA Science Experience Center.
 
-<a href="https://ista.ac.at/en/home/" style="display: block;">
-<img src="/images/ISTA_green3.png" alt="ISTA logo" width="200"/>
+<a href="https://ista.ac.at/en/home/">
+<img src="/images/ISTA_green3.png" alt="ISTA logo" height="150"/>
 </a>
 
-<a href="https://www.vistascience.at/en" style="display: block;">
-<img src="/images/vista_logo.png" alt="VISTA logo" width="200"/>
+<a href="https://www.vistascience.at/en">
+<img src="/images/vista_logo.png" alt="VISTA logo" height="150"/>
 </a>
