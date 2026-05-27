@@ -21,4 +21,17 @@ Josef Tkadlec
 
 <img src="/images/slovak-logo.png" alt="slovak MO logo" width="200"/>
 
-## Sponzors
+<img src="/images/austria-logo.png" alt="austria MO logo" width="200"/>
+
+<img src="/images/polish-logo.png" alt="poland MO logo" width="200"/>
+
+<img src="/images/cz-mo.pdf" alt="czechia MO logo" width="200"/>
+
+<img src="/images/ukrainian-logo.svg" alt="ukraine MO logo" width="200"/>
+
+
+## Sponsors
+
+<img src="/images/ISTA_green3.png" alt="ISTA logo" width="200"/>
+
+<img src="/images/vista_logo.png" alt="VISTA logo" width="200"/>
