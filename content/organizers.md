@@ -19,25 +19,30 @@ Josef Tkadlec
 
 ## Involved math olympiads
 
-<img src="/images/cz-mo.pdf" alt="czechia MO logo" width="200"/>
+<img src="/images/cz-mo.pdf" alt="czechia MO logo" height="150"/>
 
-<img src="/images/austria-logo.png" alt="austria MO logo" height="200"/>
+<img src="/images/austria-logo.png" alt="austria MO logo" height="150"/>
 
-<img src="/images/polish-logo.pdf" alt="poland MO logo" width="200"/>
+<img src="/images/polish-logo.pdf" alt="poland MO logo" height="150"/>
 
-<img src="/images/slovak-logo.png" alt="slovak MO logo" width="200"/>
+<img src="/images/slovak-logo.png" alt="slovak MO logo" height="150"/>
 
-<img src="/images/ukrainian-logo.svg" alt="ukraine MO logo" width="200"/>
-
+<a href="https://matholymp.com.ua/">
+<img src="/images/ukrainian-logo.svg" alt="ukraine MO logo" height="150"/>
+</a>
 
 ## Sponsors
 
 We acknowledge the support of the Institute of Science and Technology Austria (ISTA) and the VISTA Science Experience Center.
 
-<a href="https://ista.ac.at/en/home/">
+<a href="https://ista.ac.at/en/home/" style="display: block;">
+
 <img src="/images/ISTA_green3.png" alt="ISTA logo" width="200"/>
+
 </a>
 
-<a href="https://www.vistascience.at/en">
+<a href="https://www.vistascience.at/en" style="display: block;">
+
 <img src="/images/vista_logo.png" alt="VISTA logo" width="200"/>
+
 </a>
