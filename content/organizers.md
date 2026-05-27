@@ -23,7 +23,7 @@ Josef Tkadlec
 
 <img src="/images/austria-logo.png" alt="austria MO logo" width="200"/>
 
-<img src="/images/polish-logo.png" alt="poland MO logo" width="200"/>
+<img src="/images/polish-logo.pdf" alt="poland MO logo" width="200"/>
 
 <img src="/images/cz-mo.pdf" alt="czechia MO logo" width="200"/>
 
