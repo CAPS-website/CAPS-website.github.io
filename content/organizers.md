@@ -6,7 +6,7 @@ mainOrganizers = [
     { name = "Jakub Löwit", photo = "kuba.JPG", email = "jakub.loewit@ista.ac.at", phone = "+123456789" },
     { name = "Nhok Tkhai Shon Ngo", photo = "shon_01.JPG", email = "nhoktkhaishon.ngo@ista.ac.at", phone = "+987654321" },
     { name = "Lenka Kopfová", photo = "lenka.JPG", email = "lenka.kopfova@ista.ac.at", phone = "+987654321" },
-    { name = "The Redlingerh&uuml;tte Cat", photo = "redlinger_cat.JPG", email = "redlingerhuette.at", phone = "+123456789" },
+    { name = "The Redlingerhütte Cat", photo = "redlinger_cat.JPG", email = "redlingerhuette.at", phone = "+123456789" },
 ]
 +++
 
