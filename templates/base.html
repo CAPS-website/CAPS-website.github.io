@@ -13,14 +13,9 @@
     <nav id="menu-bar">
       <ul id="menu-list">
         <li><a class="nav-link" href="{{ get_url(path="/") }}">About</a></li>
-	<li><a class="nav-link" href="{{ get_url(path="current/") }}">Current year</a></li>
-        <li class="menu-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" >Competition</a>
-          <ul class="dropdown-menu">
-            <li><a href="{{ get_url(path="rules/") }}">Rules</a></li>
-            <li><a href="{{ get_url(path="problems-and-solutions/") }}">Problems, Solutions & Rankings</a></li>
-          </ul>
-        </li>
+	      <li><a class="nav-link" href="{{ get_url(path="current/") }}">Current year</a></li>
+        <li><a class="nav-link" href="{{ get_url(path="rules/") }}">Rules</a></li>
+        <li><a class="nav-link" href="{{ get_url(path="problems-and-solutions/") }}">Problems & Rankings</a></li>
         <li><a class="nav-link" href="{{ get_url(path="organizers/") }}">Organizers</a></li>
       </ul>
       <div class="logo">
