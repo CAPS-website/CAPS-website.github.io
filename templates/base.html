@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="{{ get_url(path="style.css") }}">
+    <link rel="stylesheet" href="{{ get_url(path="css/glightbox.css") }}" />
+    <script src="{{ get_url(path="js/glightbox.min.js") }}"></script>
   </head>
   <body>
     <div class="top-img">
@@ -17,6 +19,7 @@
         <li><a class="nav-link" href="{{ get_url(path="rules/") }}">Rules</a></li>
         <li><a class="nav-link" href="{{ get_url(path="problems-and-solutions/") }}">Problems & Rankings</a></li>
         <li><a class="nav-link" href="{{ get_url(path="organizers/") }}">Organizers</a></li>
+        <li><a class="nav-link" href="{{ get_url(path="gallery/") }}">Gallery</a></li>
       </ul>
       <div class="logo">
         <img src="/images/logo2.png" alt="Logo">
@@ -25,5 +28,15 @@
     <main class="site-content">
       {% block content %} {% endblock content %}
     </main>
+
+  <script>
+    var lightbox = GLightbox();
+    var lightboxVideo = GLightbox({
+          selector: '.glightbox',
+          touchNavigation: true,
+          zoomable: true
+    });
+  </script>
+
   </body>
 </html>
