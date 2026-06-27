@@ -190,3 +190,15 @@ th, td {
     }
 }
 
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  width:88%;
+  justify-content: center;
+  margin:0 auto;
+}
+
+.photo {
+  height:12rem;
+  margin:0.5rem;
+}

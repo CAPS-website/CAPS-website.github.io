@@ -1,0 +1,16 @@
+<div class="gallery">
+{% for asset in page.assets %}
+    <a
+        href="{{ get_url(path=asset) }}"
+        class="glightbox"
+        data-gallery="{{ page.slug }}"
+    >
+        <img
+            class="photo"
+            src="{{ get_url(path=asset) }}"
+            loading="lazy"
+        >
+    </a>
+{% endfor %}
+</div>
+

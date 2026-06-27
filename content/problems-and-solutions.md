@@ -9,6 +9,7 @@ Problem statements from all the editions can be found on [AoPS](https://artofpro
 
 | Year    | Problems | Solutions | Rankings|
 | :-------- | :-------: | :-------: | :-------: |
+| 2026  | [english](/pdfs/CAPS_2026/2026_problems.pdf)    | [english](/pdfs/CAPS_2026/2026_solutions.pdf) | [pdf](/pdfs/CAPS_2026/2026_standings.pdf) | 
 | 2025  | [english](/pdfs/CAPS_2025/2025_problems.pdf)    | [english](/pdfs/CAPS_2025/2025_solutions.pdf) | [pdf](/pdfs/CAPS_2025/2025_standings.pdf) | 
 | 2024  | [english](/pdfs/CAPS_2024/2024_problems.pdf)    | [english](/pdfs/CAPS_2024/2024_solutions.pdf) | [pdf](/pdfs/CAPS_2024/2024_standings.pdf) | 
 | 2023  | [english](/pdfs/CAPS_2023/2023_problems.pdf)    | [english](/pdfs/CAPS_2023/2023_solutions.pdf) | [pdf](/pdfs/CAPS_2023/2023_standings.pdf) | 
