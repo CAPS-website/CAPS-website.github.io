@@ -16,5 +16,5 @@ Problem statements from all the editions can be found on [AoPS](https://artofpro
 | 2021  | [english](/pdfs/CAPS_2021/2021_problems.pdf)    | [english](/pdfs/CAPS_2021/2021_solutions.pdf) | [pdf](/pdfs/CAPS_2021/2021_standings.pdf) | 
 | 2020  | [english](/pdfs/CAPS_2020/2020_problems.pdf)    | [english](/pdfs/CAPS_2020/2020_solutions.pdf) | [pdf](/pdfs/CAPS_2020/2020_standings.pdf) | 
 | 2019  | [english](/pdfs/CAPS_2019/2019_problems.pdf)    | [english](/pdfs/CAPS_2019/2019_solutions.pdf) | [pdf](/pdfs/CAPS_2019/2019_standings.pdf) | 
-| 2018  | [english](/pdfs/CAPS_2018/2018_problems.pdf)    | [english](/pdfs/CAPS_2018/2018_solutions.pdf) | -                                         | 
+| 2018  | [english](/pdfs/CAPS_2018/2018_problems.pdf)    | [english](/pdfs/CAPS_2018/2018_solutions.pdf) | [pdf](/pdfs/CAPS_2018/2018_standings.pdf) | 
  
